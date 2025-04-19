@@ -1,3 +1,10 @@
+/*
+Write a program that counts number of digits in an integer entered by the user. Use while() loop. 
+ 
+Sample Run: 
+Enter an integer: 123456 [Enter] 
+No. of digits = 6 
+*/
 #include<iostream>
 using namespace std;
 int main(void)
